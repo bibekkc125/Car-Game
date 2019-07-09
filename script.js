@@ -164,7 +164,7 @@ setInterval( ()=>{
     if (scoreStatus == true){
         score = score + 1;
     }
-    console.log(score);} , 100);
+    console.log(score);} , 1000);
 
 
 
